@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit-4.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/selenium-server-4.0.0-beta-4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
